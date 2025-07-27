@@ -3,6 +3,22 @@
 **AI Video Translator Pro** is an open-source platform that allows users to upload videos, automatically transcribe audio, translate it into multiple languages, and optionally embed subtitles directly into the video using FFmpeg.
 
 ---
+## 🖼️ Demo Screenshots
+
+### 📤 Uploading a Video + 📺 Subtitles Overlaid on Video
+![Upload](Cap1.png)
+
+### 🧠 Transcription + Translation Result
+![Transcript and Translation](Cap2.png)
+<p align="center">
+  <img src="Cap3.png" width="45%" style="margin-right: 10px;">
+  <img src="Cap4.png" width="45%">
+</p>
+
+
+
+
+---
 
 ## 🚀 Features
 
