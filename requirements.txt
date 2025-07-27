@@ -1,0 +1,22 @@
+# Core
+fastapi
+uvicorn
+python-multipart
+pydantic
+
+# AI Models
+whisper
+transformers
+torch
+sentencepiece
+
+# Utilities
+ffmpeg-python
+pysubs2
+moviepy
+
+# Optional (for faster whisper)
+faster-whisper
+
+# Optional real-time / WebSocket
+websockets
